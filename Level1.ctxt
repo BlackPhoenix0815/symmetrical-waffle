@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level1
+comment0.text=\r\n\ Schreibe\ hier\ eine\ Beschreibung\ der\ Klasse\ Level1\ auf.\r\n\ \r\n\ @author\ (Dein\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ das\ aktuelle\ Datum)\r\n
+comment1.params=
+comment1.target=Level1()
+comment1.text=\r\n\ Konstruktor\r\n
+comment2.params=
+comment2.target=void\ setup()
+comment2.text=\r\n\ Die\ Objekte\ in\ die\ Welt\ einfuegen\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ schreibe\ dort\ hinein,\ was\ der\ BlueDot\ tun\ soll.\ Diese\ Methode\ wird\ immer\ aufgerufen\r\n\ wenn\ der\ 'Act'\ oder\ 'Run'\ Knopf\ in\ Greenfoot\ gedr\uFFFDckt\ wurde.\r\n
+numComments=4

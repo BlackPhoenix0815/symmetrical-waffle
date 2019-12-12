@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Spieler
+comment0.text=\r\n\ Schreibe\ hier\ eine\ Beschreibung\ der\ Klasse\ Player\ auf.\r\n\ \r\n\ @author\ (Dein\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ das\ aktuelle\ Datum)\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ steuerung()
+comment2.text=\r\n\ steuerung\ -\ schreibe\ dort\ hinein,\ was\ der\ Spieler\ tun\ soll.\ \r\n
+comment3.params=
+comment3.target=void\ startPosition()
+comment3.text=\r\n\ Methode\ startPosition\r\n\ setzt\ den\ Player\ auf\ die\ StartPosition\r\n
+comment4.params=
+comment4.target=void\ naechstesLevel()
+comment4.text=\r\n\ Methode\ naechstesLevel\r\n\ erschafft\ das\ naechste\ Level\ -\ in\ Abhaengigkeit\ vom\ aktuellen\ Level\r\n
+comment5.params=
+comment5.target=void\ LevelZ()
+comment6.params=
+comment6.target=void\ LebenAnzeigen()
+numComments=7

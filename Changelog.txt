@@ -1,0 +1,46 @@
+Version 1.0
+-added
+  - Player can move
+  - Enemys move
+
+-fixed
+ -Enemy speed 
+
+Version 2.0
+-added
+  -Level 2
+
+Version 2.0.1
+-fixed
+ -level 2 bugs
+
+Version 3.0.0
+-added
+ -level 3
+
+Version 3.1.0
+-added
+ - Greendots move up and down
+
+Version 3.2.0
+-added
+ -Now the Player can boost himself to skip difficult parts
+
+Version 3.3.0
+-added
+ -Now players boost work better
+
+Version 3.4.1
+-added
+ -New Enemy "Mover" change his size
+
+Version 4.0.0
+-added 
+ -Cheat Now The player can jump to the levels by using Number keys
+ -The current Level Number is shown
+ -Now The Player have 5 lives
+	-Live deduction when touched an Enemy
+ -Sounds when
+	-touched a wall
+	- enmy
+	-new level	
